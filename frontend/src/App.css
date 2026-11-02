@@ -61,6 +61,11 @@ ul {
   color: #0b2727 !important;
   border: none !important;
   font-weight: 500 !important;
+
+  &:hover{
+      color: var(--secondary-color) !important;
+
+  }
 }
 
 .secondary__btn a {
